@@ -5,7 +5,7 @@
 
 
 '''pseudocode solution
-1. user should choose want calculation they want to do
+1. user should choose what calculation they want to do
          investment
          bond
 2. capitalization should not affect the entries
